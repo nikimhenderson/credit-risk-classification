@@ -14,6 +14,8 @@
 
   First the data was split into training and testing sets. Then the logistic regression model was used on the training set of data. Finally the Logistic Regression Model was applied to the testing dataset. The LogisticRegression library from scikit-learn was used to both train and test the model. In addition a confusion matrix and classification report were generated in order to evaluate the logistic regression model.
 ## Results
+![Screenshot 2024-07-14 164531](https://github.com/user-attachments/assets/d384ccab-9cdc-41de-b150-b2a3410d19dc)
+![Screenshot 2024-07-14 164548](https://github.com/user-attachments/assets/28a2f4a1-2be4-48d9-8532-5f1e6e66bef4)
 
 * Logistic Regression Model:
   * Accuracy: 99%
